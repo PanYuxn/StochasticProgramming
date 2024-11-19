@@ -7,4 +7,3 @@
 2. 麦吉尔大学相关资料，这好像对应为编号567的课程(对应资料在`roussos`目录下)：https://cgm.cs.mcgill.ca/~avis/courses/567/
 
 针对资料2，其中对于书本中EVPI和VSS的讲解会更好，可以通过看pdf内容更清楚其原理。
-
