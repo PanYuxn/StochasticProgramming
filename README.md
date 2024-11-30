@@ -2,7 +2,9 @@
 
 记录一下序论里的一句话: The art of Managing is in foreseeing.
 
-章节进度:1/10
+章节进度:2/10
+
+# CHAR1
 
 Char1.1 - Farming Problem
 * 难点1：Page13和Page14的推导，这部分推导当时看的云里雾里，最后总算全部推完了，具体推导见`FarmingExample.ipynb`最后一个单元格笔记.
@@ -20,5 +22,16 @@ Char1.4 - ManufacturingMQuality Problem
 
 Char1.5 - Routing Problem
 * 难点1：对于三种不同情况下的Routing Problem解法的理解。
+
+# CHAR2 
+
+Char2.4 - Two Stage Program with fixed recourse
+* 难点1： 对于原始的UFLP问题，在不确定性情况下，引申出了很多变种，想全部理解其实有点困难。（其中有一个很有意思的事情，如果随机性不对决策产生干扰，那么我们可以用Exception帮他当成确定性求解）
+
+Char2.6 - Implicit Representation of the Second Stage
+* 难点1：对于急救车调度问题，其实到现在还没懂$w(x)$的含义，估计是排队论相关的知识，到时候补一点相关知识。
+
+Char2.8 - Modeling Exercise
+* 难点1：这个章节比较有趣，它将一个原问题通过多种不确定性呈现了出来，让大家从不同方面来观察这个问题。（同时用两种Formualtion来表示，具体来说是one-stage和second-stage）
 
 邮箱:shhspyx@163.com
