@@ -2,7 +2,7 @@
 
 记录一下序论里的一句话: The art of Managing is in foreseeing.
 
-章节进度:2/10
+章节进度:4/10
 
 # CHAR1
 
@@ -33,5 +33,13 @@ Char2.6 - Implicit Representation of the Second Stage
 
 Char2.8 - Modeling Exercise
 * 难点1：这个章节比较有趣，它将一个原问题通过多种不确定性呈现了出来，让大家从不同方面来观察这个问题。（同时用两种Formualtion来表示，具体来说是one-stage和second-stage）
+
+# Char3
+
+看懂了其中几个定理，其他定理的推导，ennn，完全很难能够跟上，但是有那么一点感觉。
+
+# Char4 
+
+
 
 邮箱:shhspyx@163.com
