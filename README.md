@@ -40,6 +40,15 @@ Char2.8 - Modeling Exercise
 
 # Char4 
 
+* 这里主要描述了随机性的价值，也就是我们为社么要研究这个问题？通过三种不同的formulation之间的比较，然后给出了一些定义，说明了其有效性。
+
+# Char5 
+
+这一章节写了`Generalized Benders Decomposition`和对应的具体代码实现，很简单的一个小case，同时记录了一下L-shaped算法。
+
+# Char6
+
+实现了`Nested L-shaped`算法，其中case2对应的是书本中的例子，AsimpleExample.jpg对应的是其迭代过程。
 
 
 邮箱:shhspyx@163.com
